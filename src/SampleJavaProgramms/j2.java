@@ -7,7 +7,7 @@ public class j2 extends hda{
 	
 	public  void dd()
 	{
-		System.out.println("system wwfwre");
+		System.out.println("system ww bsdsdfwre");
 	}
 }
 	
